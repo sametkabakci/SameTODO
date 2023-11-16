@@ -29,16 +29,14 @@ const MarketingPage = () => {
                     #1 Task Management
                 </div>
                 <h1 className="text-3xl md:text-6xl text-center text-neutral-800 mb-6">
-                    Empower your team to thrive with sameTODO
+                    Elevate your team's productivity with
                 </h1>
                 <div className="text-3xl md:text-6xl bg-gradient-to-r from-blue-800 to-blue-400 text-white px-4 p-2 rounded-md pb-4 w-fit">
-                    the ultimate solution 
+                    sameTODO
                 </div>
-                <h1 className="text-3xl md:text-6xl text-center text-neutral-800 mb-6">for advancing your work seamlessly.</h1>
-                
             </div>
             <div className={cn("text-sm md:text-xl text-neutral-400 mt-4 max-w-xs md:max-w-2xl text-center mx-auto", textFont.className)}>
-                Whether collaborating in high-rises or working from the comfort of home, sameTODO is designed to elevate your team's productivity. Effortlessly collaborate, efficiently manage projects, and scale new heights of success with sameTODO
+            The ultimate solution for seamless collaboration and efficient project management, whether in high-rises or remote work settings. Empower your team to thrive and scale new heights of success effortlessly.
             </div>
             <Button className="mt-6" size="lg" asChild>
                 <Link href="/sign-up">
