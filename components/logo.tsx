@@ -17,8 +17,8 @@ export const Logo = () => {
                     height={30}
                     width={30}
                 />
-                <p className={cn("text-lg text-neutral-700 pb-1", headingFont)}>
-                    SameTODO
+                <p className={cn("text-lg text-neutral-900 font-bold  pb-1", headingFont)}>
+                    sameTODO
                 </p>
             </div>
         </Link>
